@@ -8,6 +8,6 @@ This project classifies flowers using a Convolutional Neural Network (CNN) in MA
 #### Input image:
 ![Sample Input](input.png)
 #### Output image:
-![Sample Output](input.png)
+![Sample Output](output.png)
 
 
